@@ -84,6 +84,8 @@ Option 4:
 An error message will be displayed because there are multiple script tags in the body.
 
 <hr/>
+____________________
+I choose option 2)
 
 ### JavaScript Execution Context
 MSJS practice question 17
@@ -140,6 +142,8 @@ function doAction(data, size) {
 4) This#is#a#test that illustrates
 
 <hr/>
+_______________________________
+I choose 1)
 
 ### Try/Catch/Throw
 MSJS practice question 19
@@ -181,6 +185,9 @@ Executed the finally block
 4) Could not call the function to log the info!
 
 <hr/>
+______________________
+I choose 1)
+
 
 ### Input/Confirm (undefined/null)
 MSJS practice question 26
@@ -227,6 +234,8 @@ The script in the following HTML page prompts the user for values and shows the 
 4) The "result" is: 20
 
 <hr/>
+______________________
+20
 
 ### Typeof/null/undefined/hoisting
 MSJS practice question 30
@@ -310,6 +319,8 @@ type of m: undefined
 type of n: undefined
 ```
 <hr/>
+_______________
+i choose 1)
 
 ### HTML5 Form Elements how fields are submitted) (required, email, password, reset, etc.)
 MSJS practice question 120
@@ -360,6 +371,9 @@ Temp: 66
 4) http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
 
 <hr/>
+
+____________________________________
+3)
 
 ### Extra on Array Functions: sort, filter, forEach, etc.
 MSJS practice question 40
@@ -442,6 +456,9 @@ Name: Tim, Salary: 14000.00
 
 <hr/>
 
+______________
+I choose 2)
+
 ### DOM and BOM
 MSJS practice question 28
 
@@ -469,8 +486,11 @@ The following script displays information about the screen:
 3) screen.availHeight < screen.height
 
 4) screen.colorDepth < screen.pixelDepth
-
-
+-------------------------------------
+1) TRUE
+2) TRUE
+3) FALSE
+4) FALSE
 <hr/>
 
 ### Dates
@@ -554,5 +574,6 @@ You preview the following page in the browser:
 3) Banana
 
 4) Kiwi
-
+____________________
+2)
 
